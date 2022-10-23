@@ -18,8 +18,8 @@ Second, You want to extract the zip file and do NOT run the application yet. Aft
 # Compilation
 
 Type in All these commands in order to compile it properly:
-haxelib install hscript
-haxelib install newgrounds
+
+`haxelib install newgrounds
 haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git
 haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit.git
 haxelib git faxe https://github.com/uhrobots/faxe
@@ -27,7 +27,7 @@ haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
 haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
 haxelib install lime 7.9.0
-haxelib install hxCodec 2.5.1
+haxelib install hscript 2.5.0
 haxelib install actuate
 haxelib install openfl
 haxelib install flixel
@@ -37,7 +37,7 @@ haxelib run lime setup
 haxelib install flixel-tools
 haxelib run flixel-tools setup
 haxelib update flixel
-haxelib update flixel-addons
+haxelib update flixel-addons`
 
 After all that type "lime test windows" and now you're done!!
 
