@@ -10,7 +10,38 @@ ________________________________________________________________________________
 
 
 # Installation:
-First, You want to extract the zip file and do NOT run the application yet. After that It will take a while to extract it. Tell us your age after you run the application.
+
+First, You must have [The Most Updated Version of Haxe.](https://haxe.org/download/version/4.2.5) 4.2.4 is fine but idcdc
+
+Second, You want to extract the zip file and do NOT run the application yet. After that It will take a while to extract it. Tell us your age after you run the application.
+
+# Compilation
+
+Type in All these commands in order to compile it properly:
+haxelib install hscript
+haxelib install newgrounds
+haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git
+haxelib git hxvm_luajit https://github.com/nebulazorua/hxvm_luajit.git
+haxelib git faxe https://github.com/uhrobots/faxe
+haxelib git polymod https://github.com/larsiusprime/polymod.git
+haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
+haxelib git hxCodec https://github.com/polybiusproxy/hxCodec.git
+haxelib install lime 7.9.0
+haxelib install hxCodec 2.5.1
+haxelib install actuate
+haxelib install openfl
+haxelib install flixel
+haxelib install flixel-addons
+haxelib run lime setup flixel
+haxelib run lime setup
+haxelib install flixel-tools
+haxelib run flixel-tools setup
+haxelib update flixel
+haxelib update flixel-addons
+
+After all that type "lime test windows" and now you're done!!
+
 # Credits:
 * SomeGuyWhoLikesFNF - Coder, Artist, Charter, Composer, and Animator.
 * SenniorQuindom - The Guy Who Made FestivalV, and also did Backgrounds and stuff too.
@@ -127,6 +158,22 @@ ________________________________________________________________________________
 * Another fucking rebrand same goes with the stolen song passcode lua script.
 * A Juicy style from scratch!
 
+### Adds Maximum NPS from there!!
+
+## Fixes and Tweaks
+
+### Chart Editor
+* Removed access to go to the chart editor through master editor menu since old songs crash the game...
+
+### Mechanics Option
+* YOU CAN TURN IT ON OR OFF THROUGH OPTIONS MENU!!
+
+### Doomsday Mechanic
+* God damn it, I had to remove the song's extra mechanic since it was too much!
+* Adds a Health bar as your blood (If it's empty then you die Instantly)
+* Extra camera to make it high effort for the players to watch ofc
+
+### idk... aaaaaaaaaaaaaaauuuuuuuuuuuughhhhhhhhhhh
 ________________________________________________________________________________
 
 and That Wraps up for the source code build. See you soon!
