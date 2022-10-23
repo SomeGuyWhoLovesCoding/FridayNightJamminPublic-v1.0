@@ -21,7 +21,7 @@ Type in All these commands in order to compile it properly:
 haxelib install hscript
 haxelib install newgrounds
 haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git
-haxelib git hxvm_luajit https://github.com/nebulazorua/hxvm_luajit.git
+haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit.git
 haxelib git faxe https://github.com/uhrobots/faxe
 haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
