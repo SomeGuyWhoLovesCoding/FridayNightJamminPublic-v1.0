@@ -26,7 +26,6 @@ haxelib git faxe https://github.com/uhrobots/faxe
 haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
 haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
-haxelib git hxCodec https://github.com/polybiusproxy/hxCodec.git
 haxelib install lime 7.9.0
 haxelib install hxCodec 2.5.1
 haxelib install actuate
