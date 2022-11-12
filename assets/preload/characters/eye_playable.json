@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 44,
+			"name": "eye that sticks to pssa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 50,
+			"name": "eye that sticks to pssa SingRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 50,
+			"name": "eye that sticks to pssa SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 50,
+			"name": "eye that sticks to pssa SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 50,
+			"name": "eye that sticks to pssa SingLEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/eye that sticks to pssa",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eye",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		95,
+		235
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

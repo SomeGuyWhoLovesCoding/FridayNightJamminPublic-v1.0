@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 7.2,
+		"stage": "bridgeovernaturedark",
+		"player1": "BF_scared",
+		"player2": "corruptedcorrupt",
+		"player3": null,
+		"events": [
+			[
+				1116.47727272727,
+				[
+					[
+						"Add Camera Zoom",
+						"24",
+						"24"
+					]
+				]
+			],
+			[
+				70419.1616766467,
+				[
+					[
+						"Image Flash",
+						"blackscreen",
+						"0.072"
+					]
+				]
+			],
+			[
+				77604.7904191616,
+				[
+					[
+						"Move Arrow",
+						"0",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77616.0179640718,
+				[
+					[
+						"Move Arrow",
+						"1",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77627.245508982,
+				[
+					[
+						"Move Arrow",
+						"2",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77638.4730538922,
+				[
+					[
+						"Move Arrow",
+						"3",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77649.7005988024,
+				[
+					[
+						"Move Arrow",
+						"4",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77660.9281437125,
+				[
+					[
+						"Move Arrow",
+						"5",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77672.1556886227,
+				[
+					[
+						"Move Arrow",
+						"6",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				77683.3832335329,
+				[
+					[
+						"Move Arrow",
+						"7",
+						"0, 0, 0, 0.1, 0.075"
+					]
+				]
+			],
+			[
+				169580.838323353,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"5000"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "eye_playable",
+		"bpm": 167,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "THEORETICAL"
+	}
+}

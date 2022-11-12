@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "den abrilli SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "den abrilli SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "den abrilli SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "den abrilli SingRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "den abrilli idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/den abrilli",
+	"position": [
+		-500,
+		-200
+	],
+	"healthicon": "den abrilli",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		63,
+		146
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

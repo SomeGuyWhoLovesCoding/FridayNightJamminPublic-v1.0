@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				60
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bello-alt SingLEFT"
+		},
+		{
+			"offsets": [
+				30,
+				60
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bello-alt SingDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bello-alt SingUP"
+		},
+		{
+			"offsets": [
+				-90,
+				60
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bello-alt SingRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				60
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "bello-alt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bello-alt",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "bello",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		52
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				240
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				202
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "hypa SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				465,
+				280
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "hypa SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				280
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "hypa SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				270
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "hypa SingRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				271,
+				170
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "hypa idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hypa",
+	"position": [
+		10,
+		0
+	],
+	"healthicon": "hypa",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

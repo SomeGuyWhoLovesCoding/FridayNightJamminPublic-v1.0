@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 18,
+			"name": "bello_tankman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "bello_tankman SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "bello_tankman SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "bello_tankman SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "bello_tankman SingRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bello_tankman",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "bello_tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		52
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

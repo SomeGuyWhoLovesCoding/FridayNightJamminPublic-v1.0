@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "RAYON EVERYTHING IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "RAYON EVERYTHING LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "RAYON EVERYTHING DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singUP",
+			"fps": 29,
+			"name": "RAYON EVERYTHING UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 31,
+			"name": "RAYON EVERYTHING RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RAYON EVERYTHING DARK",
+	"position": [
+		-430,
+		-210
+	],
+	"healthicon": "rayondroide",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		230,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

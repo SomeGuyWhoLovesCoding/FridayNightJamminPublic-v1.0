@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE idle dance"
+		},
+		{
+			"offsets": [
+				-90,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE UP MISS0"
+		},
+		{
+			"offsets": [
+				-90,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE DOWN MISS0"
+		},
+		{
+			"offsets": [
+				-90,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE LEFT MISS0"
+		},
+		{
+			"offsets": [
+				-90,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE RIGHT MISS0"
+		},
+		{
+			"offsets": [
+				80,
+				10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				10,
+				70
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE UP0"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sgwlfnf bf NIGHTMARE NOTE DOWN0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sgwlfnf bf NIGHTMARE",
+	"position": [
+		60,
+		170
+	],
+	"healthicon": "nightmare-bf-sgwlfnf",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		0,
+		101
+	],
+	"camera_position": [
+		220,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

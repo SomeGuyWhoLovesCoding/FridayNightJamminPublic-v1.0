@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "creepyrobotdialougenoise",
+			"speed": 0.5,
+			"portrait": "corruptedcorrupt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ow..."
+		},
+		{
+			"sound": "creepyrobotdialougenoise",
+			"speed": 0.5,
+			"portrait": "corruptedcorrupt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How would you do that to me..."
+		},
+		{
+			"sound": "creepyrobotdialougenoise",
+			"speed": 0.5,
+			"portrait": "corruptedcorrupt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will kill you and the bridge.. asksajwudhwsdqwekasjdkajshdiawuerqwjkeoasiduasodiqwelkidufasoiduqweasdwqekhaehasdhwieubzbzbxmssjwioiwyrhashsfdsjhdsweiehfnxnsdwo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fuck serious, How the fuck are you corrupted again all of a sudden?"
+		},
+		{
+			"sound": "creepyrobotdialougenoise",
+			"speed": 0.5,
+			"portrait": "corruptedcorrupt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ow...                                                                                                                 ... kill your fucking self"
+		}
+	]
+}

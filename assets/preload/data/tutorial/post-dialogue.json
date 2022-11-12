@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks for practicing, but..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "afraid",
+			"text": "I think you almost fucked up or something, or you didn't."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "frustrated",
+			"text": "There's still so much fuckin shit that I need to do, bye!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before that, Why do I hold a mic?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because I love it, and I love rap battling!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's all of it today. I hope you learn not to get fucked up."
+		}
+	]
+}

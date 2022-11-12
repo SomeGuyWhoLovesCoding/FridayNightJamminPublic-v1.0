@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bakii flying Transformation Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bakii flying Transformation Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bakii flying Transformation Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bakii flying Transformation Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bakii flying Transformation Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bakii Flying Transformation Dark",
+	"position": [
+		-70,
+		-210
+	],
+	"healthicon": "bakii_transformation",
+	"flip_x": true,
+	"healthbar_colors": [
+		181,
+		221,
+		241
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

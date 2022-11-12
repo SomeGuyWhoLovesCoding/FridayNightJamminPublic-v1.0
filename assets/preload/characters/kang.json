@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-360
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kang idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kang SingLEFT"
+		},
+		{
+			"offsets": [
+				-40,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kang SingDOWN"
+		},
+		{
+			"offsets": [
+				-40,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kang SingUP"
+		},
+		{
+			"offsets": [
+				-110,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kang SingRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/kang",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kang",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		149,
+		184
+	],
+	"camera_position": [
+		-20,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

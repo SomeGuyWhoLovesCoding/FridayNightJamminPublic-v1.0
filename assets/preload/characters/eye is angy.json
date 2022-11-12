@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "idle",
+			"loop": false,
+			"name": "eye is angy idle"
+		},
+		{
+			"offsets": [
+				120,
+				0
+			],
+			"indices": [],
+			"fps": 44,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "eye is angy SingLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "eye is angy SingDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singUP",
+			"loop": false,
+			"name": "eye is angy SingUP"
+		},
+		{
+			"offsets": [
+				-120,
+				0
+			],
+			"indices": [],
+			"fps": 44,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "eye is angy SingRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/eye is angy",
+	"position": [
+		80,
+		160
+	],
+	"healthicon": "eye",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		220,
+		75
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

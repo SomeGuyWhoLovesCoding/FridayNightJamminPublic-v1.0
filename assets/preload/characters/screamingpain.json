@@ -1,0 +1,278 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Parent Christmas Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				24
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Parent Up Note Dad",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				16
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Parent Left Note Dad",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-31,
+				-29
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Parent Down Note Dad",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-23
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Parent Right Note Dad",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-24
+			],
+			"anim": "singRIGHT-alt-loop",
+			"fps": 24,
+			"name": "Parent Right Note Mom",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				24
+			],
+			"anim": "singUP-alt-loop",
+			"fps": 24,
+			"name": "Parent Up Note Mom",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				15
+			],
+			"anim": "singLEFT-alt-loop",
+			"fps": 24,
+			"name": "Parent Left Note Mom",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-40
+			],
+			"anim": "singDOWN-alt-loop",
+			"fps": 24,
+			"name": "Parent Down Note Mom",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				120,
+				-60
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "thefrigginmouse_n_mickey idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "thefrigginmouse_n_mickey SingUP",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "thefrigginmouse_n_mickey SingDOWN",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "thefrigginmouse_n_mickey SingLEFT",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "thefrigginmouse_n_mickey SingRIGHT",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 9,
+			"name": "thefrigginmouse_n_mickey SingRIGHT-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 9,
+			"name": "thefrigginmouse_n_mickey SingDOWN-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singLEFT-alt",
+			"fps": 9,
+			"name": "thefrigginmouse_n_mickey SingLEFT-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-60
+			],
+			"anim": "singUP-alt",
+			"fps": 9,
+			"name": "thefrigginmouse_n_mickey SingUP-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/screamingpain",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "thefrigginmouse_n_mickey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		120
+	],
+	"camera_position": [
+		-130,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

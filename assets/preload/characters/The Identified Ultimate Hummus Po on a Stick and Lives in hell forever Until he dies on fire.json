@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire killing you 01110101 1"
+		},
+		{
+			"offsets": [
+				-150,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire killing you 01110101 2"
+		},
+		{
+			"offsets": [
+				-150,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire killing you 01110101 1"
+		},
+		{
+			"offsets": [
+				-150,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire killing you 01110101 2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				270
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/The Identified Ultimate Hummus Po on a Stick and Lives in hell forever Until he dies on fire",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

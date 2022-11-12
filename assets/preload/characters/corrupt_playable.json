@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				240
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"offsets": [
+				591,
+				210
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corrupt_playable SingUP"
+		},
+		{
+			"offsets": [
+				780,
+				210
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corrupt_playable SingRIGHT"
+		},
+		{
+			"offsets": [
+				661,
+				210
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corrupt_playable SingDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				210
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "corrupt_playable SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				210
+			],
+			"anim": "singLEFTmiss",
+			"fps": 18,
+			"name": "corrupt_playable MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				210
+			],
+			"anim": "singDOWNmiss",
+			"fps": 18,
+			"name": "corrupt_playable MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				210
+			],
+			"anim": "singUPmiss",
+			"fps": 18,
+			"name": "corrupt_playable MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				210
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 18,
+			"name": "corrupt_playable MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				591,
+				210
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "corrupt_playable idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/corrupt_playable",
+	"position": [
+		-150,
+		40
+	],
+	"healthicon": "corrupt",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		42,
+		42
+	],
+	"camera_position": [
+		310,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

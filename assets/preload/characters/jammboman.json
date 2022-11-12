@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jammboman SingLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jammboman SingDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jammboman SingUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 44,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jammboman SingRIGHT"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "idle",
+			"loop": true,
+			"name": "jammboman idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jammboman",
+	"position": [
+		-40,
+		90
+	],
+	"healthicon": "jammboman",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		220,
+		216
+	],
+	"camera_position": [
+		-130,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

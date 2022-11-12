@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				210,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				180
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "corruptdark idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				180
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "corruptdark SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				180
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "corruptdark SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				180
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "corruptdark SingRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				180
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "corruptdark SingDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/corruptdark",
+	"position": [
+		10,
+		290
+	],
+	"healthicon": "corrupt",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		32,
+		32
+	],
+	"camera_position": [
+		-230,
+		-670
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

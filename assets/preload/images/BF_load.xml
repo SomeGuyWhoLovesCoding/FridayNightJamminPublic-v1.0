@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_load.png">
+	<SubTexture name="scared boi0000" x="6" y="6" width="247" height="108" frameX="0" frameY="-109" frameWidth="247" frameHeight="217" />
+</TextureAtlas>

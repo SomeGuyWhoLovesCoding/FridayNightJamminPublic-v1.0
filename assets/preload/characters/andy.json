@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "andy SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "andy SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "andy SingUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "andy SingRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				60
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "andy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/andy",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "andy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

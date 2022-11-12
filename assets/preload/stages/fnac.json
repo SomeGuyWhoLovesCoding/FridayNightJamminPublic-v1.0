@@ -1,0 +1,9 @@
+{
+	"directory": "",
+	"defaultZoom": 1.2,
+	"isPixelStage": false,
+
+	"boyfriend": [780, -280],
+	"girlfriend": [300, -280],
+	"opponent": [102, -280]
+}

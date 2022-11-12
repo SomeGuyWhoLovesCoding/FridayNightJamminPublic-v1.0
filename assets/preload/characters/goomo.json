@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-14
+			],
+			"anim": "idle",
+			"fps": 44,
+			"name": "goomo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 44,
+			"name": "goomo SingLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 36,
+			"name": "goomo SingDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 44,
+			"name": "goomo SingRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 38,
+			"name": "goomo SingUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/goomo",
+	"position": [
+		40,
+		210
+	],
+	"healthicon": "goomo",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

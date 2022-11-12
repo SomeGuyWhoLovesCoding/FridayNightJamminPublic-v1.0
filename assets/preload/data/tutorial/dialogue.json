@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I think you made it to the game!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well done, young man! Now I'll teach you a tutorial for all of you who has trouble reading this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "afraid",
+			"text": "but I'm afraid that You're gonna lose, do you? Are you an expert?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If yes, then THANK YOU FOR LEARNING HOW TO USE FNF SKILLS! It might get even more and mroe insane until then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so Let's get started!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf_sgwlfnf",
+			"boxState": "normal",
+			"expression": "frustrated",
+			"text": "RIGHT NOW!!"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "bakii_ending0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 18,
+			"name": "bakii_ending Dead0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 18,
+			"name": "bakii_ending Dead Loop0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 18,
+			"name": "bakii_ending Dead Loop0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bakii_ending",
+	"position": [
+		-70,
+		-210
+	],
+	"healthicon": "bakii_transformation",
+	"flip_x": true,
+	"healthbar_colors": [
+		181,
+		221,
+		241
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
